@@ -1,0 +1,7 @@
+numpy>=1.26
+opencv-python>=4.9
+scikit-learn>=1.4
+torch>=2.2
+matplotlib>=3.6
+pillow>=10.0
+streamlit>=1.32   # demonstracinei sąsajai (UI)
